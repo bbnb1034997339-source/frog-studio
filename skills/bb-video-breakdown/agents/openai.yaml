@@ -1,4 +1,0 @@
-interface:
-  display_name: "bb视频拆解"
-  short_description: "高还原度逐镜拆解剧情片与打斗片参考视频并生成提示词"
-  default_prompt: "使用 $bb-video-breakdown逐镜拆解这个参考视频并生成每镜提示词。"
